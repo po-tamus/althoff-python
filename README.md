@@ -1,2 +1,2 @@
-# hangman
-hangman game in python
+# Althoff programs
+althoff programs - python
